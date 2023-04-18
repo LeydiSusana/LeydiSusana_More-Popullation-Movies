@@ -1,0 +1,8 @@
+version : '3.9'
+
+services:
+ mongodb:
+ image: mongo:5.9
+
+
+ mongo_data/
